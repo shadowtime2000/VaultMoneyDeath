@@ -1,0 +1,6 @@
+name: VaultMoneyDeath
+version: ${project.version}
+main: en.shadowtime2000.vaultmoneydeath.VaultMoneyDeath
+api-version: 1.15
+depend: [Vault]
+description: A simple plugin that allows you to configure a multiplier for the money and the bank money of a player when they die.
